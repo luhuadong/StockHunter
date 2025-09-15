@@ -34,6 +34,7 @@
 * [港股投资实战](06_hk-shares/README.md)
     * [港股市场特点（机构主导、估值理性、分红率高）](06_hk-shares/hk-shares-features.md)
     * [南向资金与港股通](06_hk-shares/hk-shares-southbound-capital.md)
+    * [港股常用指数及其作用（恒生指数、恒生科技指数、国企指数等）](06_hk-shares/hk-stock-indices.md)
     * [港股选股技巧（龙头股、高分红股、新经济股）](06_hk-shares/hk-shares-stock-selection.md)
     * [港股 IPO 与打新](06_hk-shares/hk-shares-ipo.md)
     * [港股投资的风险与机会](06_hk-shares/hk-shares-risks.md)
